@@ -13,6 +13,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PHOTOLAB", "PHOTOLAB.csproj", "{F9C24FAC-97A6-4FBD-9BA4-ACA3CFD4C9A0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "App-Studio", "App-Studio", "{E4F31ADD-9AF0-43DA-90F8-D67C72214356}"
+	ProjectSection(SolutionItems) = preProject
+		App-Studio\build.zip = App-Studio\build.zip
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
